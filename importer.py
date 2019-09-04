@@ -5,6 +5,8 @@
 # MODULE:       Actinia importer
 # AUTHOR(S):    Soeren Gebbert
 #
+# Original source: https://github.com/mundialis/actinia_core/blob/master/scripts/importer/
+#
 # PURPOSE:      Facilitates creation of raster MASK
 #
 # COPYRIGHT:    (C) 2018 by  Sören Gebbert and mundialis GmbH & Co. KG
